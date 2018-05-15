@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICar", "AICar.csproj", "{E1BA76C7-BBE9-592B-353D-2F2CF7B39D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICar.Editor", "AICar.Editor.csproj", "{7690E841-B148-9CFF-920C-163527A9F546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BA76C7-BBE9-592B-353D-2F2CF7B39D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BA76C7-BBE9-592B-353D-2F2CF7B39D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BA76C7-BBE9-592B-353D-2F2CF7B39D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BA76C7-BBE9-592B-353D-2F2CF7B39D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7690E841-B148-9CFF-920C-163527A9F546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7690E841-B148-9CFF-920C-163527A9F546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7690E841-B148-9CFF-920C-163527A9F546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7690E841-B148-9CFF-920C-163527A9F546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
